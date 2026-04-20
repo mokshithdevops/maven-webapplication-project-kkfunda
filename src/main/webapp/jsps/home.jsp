@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marque> <h1> HELLO WELCOME TO KK FUNDA DEVOPS </h1></marque> 
+    <marque> <h1> HELLO WELCOME TO KK FUNDA DEVOPS  and devsecops</h1></marque> 
     <h3>Training | Development | Consulting | KKDEVOPS</h3>
 </header>
 
